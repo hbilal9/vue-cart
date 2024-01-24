@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch",
+      "quantity": 50,
+      "description": "Smartwatch with health and fitness tracking features",
+      "price": 299.99,
+      "image": "https://source.unsplash.com/featured/?apple watch"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "quantity": 30,
+      "description": "Flagship Android smartphone with powerful features",
+      "price": 899.99,
+      "image": "https://source.unsplash.com/featured/?samsung galaxy s21"
+    },
+    {
+      "id": 3,
+      "name": "Dell XPS 13",
+      "quantity": 20,
+      "description": "Ultrabook with InfinityEdge display for immersive viewing",
+      "price": 1299.99,
+      "image": "https://source.unsplash.com/featured/?dell xps 13"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM4",
+      "quantity": 40,
+      "description": "Wireless noise-canceling headphones for immersive audio experience",
+      "price": 349.99,
+      "image": "https://source.unsplash.com/featured/?sony wh-1000xm4"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5",
+      "quantity": 15,
+      "description": "Mirrorless camera with 8K video recording capability",
+      "price": 3799.99,
+      "image": "https://source.unsplash.com/featured/?canon eos r5"
+    },
+    {
+      "id": 6,
+      "name": "Tesla Model 3",
+      "quantity": 5,
+      "description": "Electric sedan with autopilot and long-range capabilities",
+      "price": 49999.99,
+      "image": "https://source.unsplash.com/featured/?tesla model 3"
+    },
+    {
+      "id": 7,
+      "name": "Nintendo Switch",
+      "quantity": 25,
+      "description": "Hybrid gaming console for home and portable play",
+      "price": 299.99,
+      "image": "https://source.unsplash.com/featured/?nintendo switch"
+    },
+    {
+      "id": 8,
+      "name": "Fitbit Charge 5",
+      "quantity": 35,
+      "description": "Fitness tracker with built-in GPS and health monitoring",
+      "price": 179.99,
+      "image": "https://source.unsplash.com/featured/?fitbit charge 5"
+    },
+    {
+      "id": 9,
+      "name": "KitchenAid Stand Mixer",
+      "quantity": 10,
+      "description": "Powerful stand mixer for baking and cooking enthusiasts",
+      "price": 349.99,
+      "image": "https://source.unsplash.com/featured/?kitchenaid stand mixer"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 6",
+      "quantity": 18,
+      "description": "Latest Android smartphone with impressive camera capabilities",
+      "price": 699.99,
+      "image": "https://source.unsplash.com/featured/?google pixel 6"
+    }
+  ]
+  
